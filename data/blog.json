@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "Title": "Huh? What? Race Condition?",
+        "title": "Huh? What? Race Condition?",
         "url": "https://medium.com/@searching.nehal/huh-what-race-condition-73a1ecf805ce",
-        "data": "Apr 26",
+        "date": "Apr 26",
         "tags": ["Programming", "Computer Science"]
     },
     {
         "id": 2,
-        "Title": "Building an app with elixir-1",
+        "title": "Building an app with elixir-1",
         "url": "https://medium.com/brew-some-elixir/building-an-app-with-elixir-1-e0679d7cf177",
-        "data": "May 1",
+        "date": "May 1",
         "tags": ["Elixir", "Rethinkdb", "Functional Programming"]
     },
     {
         "id": 3,
-        "Title": "Building an app with elixir-2",
+        "title": "Building an app with elixir-2",
         "url": "https://medium.com/brew-some-elixir/building-an-app-with-elixir-2-a2b6eb2c9a8",
-        "data": "May 3",
+        "date": "May 3",
         "tags": ["Elixir", "Rethinkdb", "Functional Programming"]
     },
     {
         "id": 4,
-        "Title": "Two awesome git tools to make your git workflow better",
+        "title": "Two awesome git tools to make your git workflow better",
         "url": "https://medium.com/@searching.nehal/two-awesome-git-tools-to-make-your-git-workflow-better-39c45407270b",
-        "data": "May 13",
+        "date": "May 13",
         "tags": ["Git", "Programming", "Version Control", "Coding"]
     },
     {
         "id": 5,
-        "Title": "Building an app with elixir-3",
+        "title": "Building an app with elixir-3",
         "url": "https://medium.com/brew-some-elixir/building-an-app-with-elixir-3-c169135cf55e",
-        "data": "May 14",
+        "date": "May 14",
         "tags": ["Elixir", "Rethinkdb", "Functional Programming", "Twitter Api"]
     }
 ]
