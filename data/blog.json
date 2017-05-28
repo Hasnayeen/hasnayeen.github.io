@@ -33,5 +33,12 @@
         "url": "https://medium.com/brew-some-elixir/building-an-app-with-elixir-3-c169135cf55e",
         "date": "May 14",
         "tags": ["Elixir", "Rethinkdb", "Functional Programming", "Twitter Api"]
+    },
+    {
+        "id": 6,
+        "title": "Setting Development Environment for Laravel with Docker",
+        "url": "https://medium.com/@searching.nehal/setting-development-environment-for-laravel-with-docker-8c564899ac08",
+        "date": "May 26",
+        "tags": ["Laravel", "Docker", "PHP", "Nginx", "MySQL"]
     }
 ]
