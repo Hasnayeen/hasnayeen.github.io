@@ -45,7 +45,14 @@
         "id": 7,
         "title": "Setting Development Environment for Laravel with Docker - 2",
         "url": "https://medium.com/@searching.nehal/setting-development-environment-for-laravel-with-docker-2-a78340fae586",
-        "date": "May 26",
+        "date": "May 27",
         "tags": ["Laravel", "Docker", "PHP", "Redis", "MySQL"]
+    },
+    {
+        "id": 8,
+        "title": "Building a Swarm Cluster in Local Machine with CoreOS",
+        "url": "https://medium.com/@searching.nehal/building-a-swarm-cluster-in-local-machine-with-coreos-4d7305f0ff93",
+        "date": "May 29",
+        "tags": ["CoreOS", "Docker", "Clustering", "Distributed Systems", "Docker Swarm"]
     }
 ]
