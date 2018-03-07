@@ -22,13 +22,6 @@
     },
     {
         "id": 4,
-        "url": "http://stackoverflow.com/users/4017672/nehal-hasnayeen",
-        "username": "users/4017672",
-        "medium": "stackoverflow",
-        "icon": "fab fa-stack-overflow"
-    },
-    {
-        "id": 5,
         "url": "https://medium.com/@searching.nehal",
         "username": "@searching.nehal",
         "medium": "medium",
