@@ -1,0 +1,57 @@
+{
+    "current": {
+        "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+        "author": "Susan Cain",
+        "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153"
+    },
+    "books": [
+        {
+            "id": 1,
+            "title": "Rework",
+            "author": "Jason Fried, David Heinemeier Hansson",
+            "url": "https://www.amazon.com/Rework-Jason-Fried/dp/0307463745"
+        },
+        {
+            "id": 2,
+            "title": "Anything You Want: 40 Lessons for a New Kind of Entrepreneur",
+            "author": "Derek Sivers",
+            "url": "https://www.amazon.com/Anything-You-Want-Lessons-Entrepreneur/dp/1591848261/"
+        },
+        {
+            "id": 3,
+            "title": "Drive: The Surprising Truth About What Motivates Us",
+            "author": "Daniel H. Pink",
+            "url": "https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805"
+        },
+        {
+            "id": 4,
+            "title": "Deep Work: Rules for Focused Success in a Distracted World",
+            "author": "Cal Newport",
+            "url": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692"
+        },
+        {
+            "id": 5,
+            "title": "Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application",
+            "author": "Jason Fried,‎ David Heinemeier Hansson,‎ Matthew Linderman",
+            "url": "https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812"
+        },
+        {
+            "id": 6,
+            "title": "Do More Faster: TechStars Lessons to Accelerate Your Startup",
+            "author": "David Cohen, Brad Feld",
+            "url": "https://www.amazon.com/Do-More-Faster-TechStars-Accelerate/dp/0470929839"
+        },
+        {
+            "id": 7,
+            "title": "Remote: Office Not Required",
+            "author": "Jason Fried,‎ David Heinemeier Hansson",
+            "url": "https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501"
+        },
+        {
+            "id": 8,
+            "title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+            "author": "Steve Krug",
+            "url": "https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/"
+        }
+    ]
+}

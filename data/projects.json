@@ -7,12 +7,18 @@
     },
     {
         "step": 2,
+        "name": "GetInZone",
+        "desc": "A tool to help focus in everyday work",
+        "url": "https://hasnayeen.github.io/getinzone"
+    },
+    {
+        "step": 3,
         "name": "Fluent Facebook",
         "desc": "A laravel 5 package for reading and writing to facebook graph object with ease in laravelish syntax",
         "url": "https://github.com/iluminar/fluent-facebook"
     },
     {
-        "step": 3,
+        "step": 4,
         "name": "Vps",
         "desc": "A laravel 5 package to easily create and maitain vps on digital ocean",
         "url": "https://github.com/iluminar/vps"

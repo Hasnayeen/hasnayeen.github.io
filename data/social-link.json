@@ -8,20 +8,13 @@
     },
     {
         "id": 2,
-        "url": "https://hasnayeen.github.io",
-        "username": "hasnayeen.github.io",
-        "medium": "github-page",
-        "icon": "fas fa-link"
-    },
-    {
-        "id": 3,
         "url": "https://github.com/hasnayeen",
         "username": "hasnayeen",
         "medium": "github",
         "icon": "fab fa-github"
     },
     {
-        "id": 4,
+        "id": 3,
         "url": "https://medium.com/@searching.nehal",
         "username": "@searching.nehal",
         "medium": "medium",
