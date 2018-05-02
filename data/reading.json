@@ -1,8 +1,8 @@
 {
     "current": {
-        "title": "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
-        "author": "Cal Newport",
-        "url": "https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124"
+        "title": "Peak: Secrets from the New Science of Expertise",
+        "author": "Anders Ericsson",
+        "url": "https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/0544947223"
     },
     "books": [
         {
@@ -52,6 +52,12 @@
             "title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
             "author": "Steve Krug",
             "url": "https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/"
+        },
+        {
+            "id": 9,
+            "title": "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
+            "author": "Cal Newport",
+            "url": "https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124"
         }
     ]
 }
