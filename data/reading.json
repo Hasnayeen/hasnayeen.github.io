@@ -1,8 +1,8 @@
 {
     "current": {
-        "title": "Peak: Secrets from the New Science of Expertise",
-        "author": "Anders Ericsson",
-        "url": "https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/0544947223"
+        "title": "The 4 Disciplines of Execution: Achieving Your Wildly Important Goals",
+        "author": "Chris McChesney, Sean Covey, Jim Huling",
+        "url": "https://www.amazon.com/Disciplines-Execution-Achieving-Wildly-Important/dp/1491517751"
     },
     "books": [
         {
@@ -58,6 +58,12 @@
             "title": "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
             "author": "Cal Newport",
             "url": "https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124"
+        },
+        {
+            "id": 10,
+            "title": "Peak: Secrets from the New Science of Expertise",
+            "author": "Anders Ericsson",
+            "url": "https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/0544947223"
         }
     ]
 }
