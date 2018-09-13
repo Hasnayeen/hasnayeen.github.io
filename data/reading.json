@@ -1,8 +1,8 @@
 {
     "current": {
-        "title": "The 4 Disciplines of Execution: Achieving Your Wildly Important Goals",
-        "author": "Chris McChesney, Sean Covey, Jim Huling",
-        "url": "https://www.amazon.com/Disciplines-Execution-Achieving-Wildly-Important/dp/1491517751"
+        "title": "High Performance Habits: How Extraordinary People Become That Way",
+        "author": "Brendon Burchard",
+        "url": "https://www.amazon.com/High-Performance-Habits-Extraordinary-People/dp/1401952852"
     },
     "books": [
         {
@@ -82,6 +82,12 @@
             "title": "Show Your Work!",
             "author": "Austin Kleon",
             "url": "https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X"
+        },
+        {
+            "id": 14,
+            "title": "The Compound Effect",
+            "author": "Darren Hardy",
+            "url": "https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X"
         }
     ]
 }
