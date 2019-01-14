@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Twenty Percent Time"
+    "rss": "https://rss.simplecast.com/podcasts/4022/rss",
+    "image": "https://media.simplecast.com/podcast/image/4022/1513886509-artwork.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Laracasts Snippet"
+    "rss": "https://rss.simplecast.com/podcasts/1486/rss",
+    "image": "https://media.simplecast.com/podcast/image/1486/1517699545-artwork.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Radio"
+    "rss": "https://rss.simplecast.com/podcasts/279/rss",
+    "image": "https://media.simplecast.com/podcast/image/279/1413649662-artwork.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Laravel News Podcast"
+    "rss": "https://rss.simplecast.com/podcasts/1356/rss",
+    "image": "https://media.simplecast.com/podcast/image/1356/1471538580-artwork.jpg"
+  }
+]
