@@ -13,14 +13,32 @@
   },
   {
     "id": 3,
+    "title": "Rework",
+    "rss": "https://rss.art19.com/rework",
+    "image": "https://content.production.cdn.art19.com/images/1d/c9/97/91/1dc99791-61f8-4e5b-b6a3-69bb542fb652/7a36227f38a6bea4d8ec172a982500cb5dde7967886a27b2dc8d87e4cc19bb3c8a508bd9cafd4fa9214d7f564b3f76706b912b54a1a7c8bc92825e2db21e5dd7.jpeg"
+  },
+  {
+    "id": 4,
     "title": "Full Stack Radio",
     "rss": "https://rss.simplecast.com/podcasts/279/rss",
     "image": "https://media.simplecast.com/podcast/image/279/1413649662-artwork.jpg"
   },
   {
-    "id": 4,
+    "id": 5,
+    "title": "How I Built It",
+    "rss": "https://howibuilt.it/feed/podcast",
+    "image": "https://howibuilt.it/wp-content/uploads/powerpress/itunes-new.jpg"
+  },
+  {
+    "id": 6,
     "title": "Laravel News Podcast",
     "rss": "https://rss.simplecast.com/podcasts/1356/rss",
     "image": "https://media.simplecast.com/podcast/image/1356/1471538580-artwork.jpg"
+  },
+  {
+    "id": 7,
+    "title": "devMode.fm",
+    "rss": "https://devmode.fm/rss",
+    "image": "https://devmode.fm/assets/site/devmode_light-itunes.jpg"
   }
 ]
