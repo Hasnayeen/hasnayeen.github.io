@@ -1,5 +1,5 @@
 {
-    avaialable: true,
-    hours: 40,
-    rate: $20/hr
+    "avaialable": true,
+    "hours": 40,
+    "rate": "$20/hr"
 }
