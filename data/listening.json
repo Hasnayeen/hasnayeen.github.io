@@ -46,5 +46,11 @@
     "title": "Build Your SaaS – bootstrapping in 2019",
     "rss": "https://feeds.transistor.fm/build-your-saas",
     "image": "https://images.transistor.fm/images/show/15/full_1521237846-artwork.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Art of Product",
+    "rss": "https://feeds.fireside.fm/artofproduct/rss",
+    "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/6/6fccc249-743a-4298-a664-d8d863346db9/cover.jpg?v=2"
   }
 ]
